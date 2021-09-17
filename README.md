@@ -4,7 +4,10 @@
 ## Results
 - images 1-7 and description
 - "Caption"
-![](images/checkout_times_all.png)
+![](Images/checkout_times_all.png)
+
+
+
 
 ## Overview
 -
