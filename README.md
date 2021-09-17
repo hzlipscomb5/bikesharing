@@ -1,6 +1,6 @@
 # NYC Citi Bike Analysis
 ## Link to Tableau, Challenge_Workbook
-[link to dashboard]('https://public.tableau.com/app/profile/henry.lipscomb/viz/Challenge_Workbook/CitiBikeStory')
+[link to dashboard](https://public.tableau.com/app/profile/henry.lipscomb/viz/Challenge_Workbook/CitiBikeStory)
 
 ## Summary
 ### Analysis Description
