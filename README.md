@@ -1,4 +1,7 @@
 # NYC Citi Bike Analysis
+## Link to Tableau, Challenge_Workbook
+[link to dashboard]('https://public.tableau.com/app/profile/henry.lipscomb/viz/Challenge_Workbook/CitiBikeStory')
+
 ## Summary
 ### Analysis Description
 - Our analysis was based on data from the "Citi Bike" bicycle rental network in New York City. We were tasked with gathering information that will help decide whether a simliar business model is viable in Des Moines, Iowa. We learned what types of customers rode the most, where the hotspots are, what days and times are the most popular, and the lenght of a typical rider's trip. 
@@ -34,7 +37,11 @@ Weekends have a far more even ridership pattern. It does appear Saturday is a mo
 
 ## Overview
 ### Overiew Summary
-There are several key takeaways from our research that can be utilized in Des Moines. Subscribers make up a large portion of the customer base, so attracting subscribers and retaining their membership should be a priority. Male ridership is greater than that of female ridership, so this is something to keep in mind when attempting to market the bike rental business. While male riders are a larger segment of the customer population, female ridership is still significant and cannot be overlooked. Since, one time rider numbers fairly low it might make sense to charge a hearty rate for these type of customer. If the pricing for a one time ride was close enough to a monthly subscription cost, it will likely boost the number of subscribers.
+- There are several key takeaways from our research that can be utilized in Des Moines. Subscribers make up a large portion of the customer base, so attracting subscribers and retaining their membership should be a priority. Male ridership is greater than that of female ridership, so this is something to keep in mind when attempting to market the bike rental business. While male riders are a larger segment of the customer population, female ridership is still significant and cannot be overlooked. Since, one time rider numbers fairly low it might make sense to charge a hearty rate for these type of customer. If the pricing for a one time ride was close enough to a monthly subscription cost, it will likely boost the number of subscribers.
 ### Additional Visualization Ideas
+- One idea for a potential additional visualization, would be to add a map layer for housing units or population on the "Top Starting and Ending Locations", if you made a similiar map for Des Moines this could help narrow down the bike station locations. 
+- Another visualization that could bear fruit, would be ride length broken down by subscriber vs one time customers. This could help decide optimal pricing models for each customer type. 
+- It might be worthwhile to make a map similar to the "Top Starting Location" that can be filtered by the day of the week. Of a series of visualizations for each day. A pattern might emerge that gives us some explanation of Wednesday's dip in riders.
 
--
+
+DONT FORGET TABLEAU PUBLIC LINK
