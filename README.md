@@ -1,9 +1,10 @@
 # NYC Citi Bike Analysis
 ## Summary
+### Analysis Description
 - Our analysis was based on data from the "Citi Bike" bicycle rental network in New York City. We were tasked with gathering information that will help decide whether a simliar business model would be viable in Des Moines, Iowa. We learned what types of customers rode the most, where the hotspots are, what days and times were the most popular, and how long a typical rider's trip lasted. 
 ## Results
-- images 1-7 and description
-- "Caption"
+### Checkout Times for All Users
+- We see in this chart, that ridership peaks at the 5 minute mark, and it quickly tapers off past this. At 30 minutes, the ridership is only 14.55% of the peak rate.  
 ![](Images/checkout_times_all.png)
 
 - "Caption"
@@ -27,4 +28,8 @@
 
 
 ## Overview
+### Overiew Summary
+
+### Additional Visualization Ideas
+
 -
