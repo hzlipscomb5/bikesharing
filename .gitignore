@@ -131,3 +131,4 @@ dmypy.json
 bike_df.csv
 
 201908-citibike-tripdata.csv
+*.csv
