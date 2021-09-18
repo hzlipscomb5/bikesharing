@@ -42,6 +42,3 @@ Weekends have a far more even ridership pattern. It does appear Saturday is a mo
 - One idea for a potential additional visualization, would be to add a map layer for housing units or population on the "Top Starting and Ending Locations", if you made a similiar map for Des Moines this could help narrow down the bike station locations. 
 - Another visualization that could bear fruit, would be ride length broken down by subscriber vs one time customers. This could help decide optimal pricing models for each customer type. 
 - It might be worthwhile to make a map similar to the "Top Starting Location" that can be filtered by the day of the week. Of a series of visualizations for each day. A pattern might emerge that gives us some explanation of Wednesday's dip in riders.
-
-
-DONT FORGET TABLEAU PUBLIC LINK
